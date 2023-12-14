@@ -1,4 +1,4 @@
-# terraform-dynamic-credentials-setup-aws
+# Terraform Dynamic Credentials Setup AWS
 terraform dynamic credentials setup with aws example
 Bootstrapping trust between a TFC workspace and AWS
 This directory contains example code for setting up a Terraform Cloud workspace whose runs will be automatically authenticated to AWS using Workload Identity.
