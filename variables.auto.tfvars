@@ -1,2 +1,2 @@
-tfc_organization_name = "my-organization"
+tfc_organization_name = "devopswithpawan"
 region = ""
