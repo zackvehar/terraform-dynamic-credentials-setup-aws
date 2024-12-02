@@ -15,18 +15,18 @@ variable "tfc_hostname" {
 
 variable "tfc_organization_name" {
   type        = string
-  default     = "devopswithpawan"
+  default     = "Demo-Org-zv1"
   description = "The name of your Terraform Cloud organization"
 }
 
 variable "tfc_project_name" {
   type        = string
   default     = "demo-project"
-  description = "The project under which a workspace will be created"
+  description = "demo-project"
 }
 
 variable "tfc_workspace_name" {
   type        = string
   default     = "terraform-dynamic-credentials-setup-aws"
-  description = "The name of the workspace that you'd like to create and connect to AWS"
+  description = "terraform-dynamic-credentials-setup-aws"
 }
